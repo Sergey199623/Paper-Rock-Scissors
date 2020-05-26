@@ -17,7 +17,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Game.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
+            <state relative-caret-position="252">
               <caret line="54" column="65" selection-start-line="54" selection-start-column="65" selection-end-line="54" selection-end-column="65" />
               <folding>
                 <element signature="e#0#41#0" expanded="true" />
@@ -128,16 +128,15 @@
       <updated>1590435169617</updated>
       <workItem from="1590435171316" duration="1740000" />
       <workItem from="1590438937969" duration="3073000" />
-      <workItem from="1590522722937" duration="712000" />
+      <workItem from="1590522722937" duration="969000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5525000" />
+    <option name="totallyTimeSpent" value="5782000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="136" y="23" width="1143" height="715" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25885558" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -190,7 +189,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Game.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
+        <state relative-caret-position="252">
           <caret line="54" column="65" selection-start-line="54" selection-start-column="65" selection-end-line="54" selection-end-column="65" />
           <folding>
             <element signature="e#0#41#0" expanded="true" />
